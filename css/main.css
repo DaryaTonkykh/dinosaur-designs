@@ -14,14 +14,10 @@ img {
 }
 
 h1, h2 {
-  font-size: 1rem;
   font-family: "Patua One", sans-serif;
+  font-size: 1rem;
   color: #5d8432;
   text-transform: uppercase;
-}
-
-.intro {
-  font-size: 1rem;
 }
 
 figcaption {
