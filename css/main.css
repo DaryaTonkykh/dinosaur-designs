@@ -33,12 +33,14 @@ nav ol {
 }
 
 nav a {
+  list-style-type: inherit;
   font-family: "Patua One", sans-serif;
   color: #793284;
   text-decoration: none;
 }
 
 nav a:hover {
+  list-style-type: inherit;
   font-family: "Patua One", sans-serif;
   color: #b42885;
   text-decoration: underline;
