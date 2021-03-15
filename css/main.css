@@ -26,9 +26,9 @@ figcaption {
 }
 
 nav {
-  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
@@ -36,13 +36,11 @@ nav ol {
 }
 
 nav a {
-  font-family: "Patua One", sans-serif;
   color: #793284;
   text-decoration: none;
 }
 
 nav a:hover {
-  font-family: "Patua One", sans-serif;
   color: #b42885;
   text-decoration: underline;
 }
