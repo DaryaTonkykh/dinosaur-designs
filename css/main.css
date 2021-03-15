@@ -25,25 +25,6 @@ figcaption {
   text-align: center;
 }
 
-nav ol {
-  list-style-type: inherit;
-  font-family: "Patua One", sans-serif;
-  font-size: 1.125rem;
-  font-weight: bold;
-}
-
-nav a {
-  font-family: "Patua One", sans-serif;
-  color: #793284;
-  text-decoration: none;
-}
-
-nav a:hover {
-  font-family: "Patua One", sans-serif;
-  color: #b42885;
-  text-decoration: underline;
-}
-
 .intro {
   font-size: 1rem;
 }
